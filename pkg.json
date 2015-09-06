@@ -1,0 +1,18 @@
+{
+	"out": "js/dist/",
+	"src": "js/src/",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"measure.js"
+		]
+	},
+	"name": "measure",
+	"babel": true,
+	"debug": false
+}

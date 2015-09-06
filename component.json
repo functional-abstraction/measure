@@ -1,0 +1,11 @@
+{
+	"description": "Measure code bricks for JavaScript",
+	"main": "js/dist/measure.js",
+	"scripts": [
+		"js/dist/measure.js"
+	],
+	"repo": "aureooms/js-measure",
+	"license": "AGPL-3.0",
+	"version": "0.0.0",
+	"name": "aureooms-js-measure"
+}
