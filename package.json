@@ -1,0 +1,37 @@
+{
+	"description": "Measure code bricks for JavaScript",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-measure/issues"
+	},
+	"keywords": [
+		"bricks",
+		"ender",
+		"functional",
+		"javascript",
+		"js",
+		"measure",
+		"monoid"
+	],
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"license": "AGPL-3.0",
+	"homepage": "http://aureooms.github.io/js-measure/",
+	"spm": {
+		"main": "js/dist/measure.js"
+	},
+	"devDependencies": {
+		"aureooms-node-package": "^5.0.2"
+	},
+	"author": "aureooms",
+	"main": "js/dist/measure.js",
+	"repository": {
+		"url": "https://github.com/aureooms/js-measure.git",
+		"type": "git"
+	},
+	"name": "aureooms-js-measure",
+	"version": "0.0.0",
+	"dependencies": {}
+}
