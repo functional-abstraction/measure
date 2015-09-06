@@ -17,6 +17,6 @@
 	"homepage": "http://aureooms.github.io/js-measure/",
 	"license": "AGPL-3.0",
 	"name": "aureooms-js-measure",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"main": "js/dist/measure.js"
 }
