@@ -3,6 +3,12 @@
 
 Measure code bricks for JavaScript
 
+```js
+class Monoid a where
+   0 :: => a
+   + :: a => a => a
+```
+
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-measure.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-measure/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-measure.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-measure)
 [![Bower version](http://img.shields.io/bower/v/aureooms-js-measure.svg?style=flat)](http://bower.io/search/?q=aureooms-js-measure)
