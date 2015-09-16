@@ -227,11 +227,51 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
+                "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/1-monoids/IntegerMax.js",
+                "projectPath": "js/src/0-core/1-monoids/IntegerMax.js",
+                "targetPath": "0-core/1-monoids/IntegerMax",
+                "pageTitle": "0-core/1-monoids/IntegerMax",
+                "title": "IntegerMax"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
                 "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/1-monoids/IntegerMul.js",
                 "projectPath": "js/src/0-core/1-monoids/IntegerMul.js",
                 "targetPath": "0-core/1-monoids/IntegerMul",
                 "pageTitle": "0-core/1-monoids/IntegerMul",
                 "title": "IntegerMul"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/1-monoids/KeyMonoid.js",
+                "projectPath": "js/src/0-core/1-monoids/KeyMonoid.js",
+                "targetPath": "0-core/1-monoids/KeyMonoid",
+                "pageTitle": "0-core/1-monoids/KeyMonoid",
+                "title": "KeyMonoid"
               },
               "depth": 3,
               "outline": []
@@ -262,6 +302,46 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "targetPath": "0-core/2-derived/Counter",
                 "pageTitle": "0-core/2-derived/Counter",
                 "title": "Counter"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/2-derived/KeyMeasure.js",
+                "projectPath": "js/src/0-core/2-derived/KeyMeasure.js",
+                "targetPath": "0-core/2-derived/KeyMeasure",
+                "pageTitle": "0-core/2-derived/KeyMeasure",
+                "title": "KeyMeasure"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/2-derived/Max.js",
+                "projectPath": "js/src/0-core/2-derived/Max.js",
+                "targetPath": "0-core/2-derived/Max",
+                "pageTitle": "0-core/2-derived/Max",
+                "title": "Max"
               },
               "depth": 3,
               "outline": []
