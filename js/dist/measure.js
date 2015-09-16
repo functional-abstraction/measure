@@ -57,7 +57,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 				_classCallCheck(this, IntegerAdd);
 			}
 
-			/* js/src/0-core/1-monoids/IntegerMul.js */
+			/* js/src/0-core/1-monoids/IntegerMax.js */
 
 			_createClass(IntegerAdd, [{
 				key: "zero",
@@ -72,6 +72,28 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			}]);
 
 			return IntegerAdd;
+		})();
+
+		var IntegerMax = (function () {
+			function IntegerMax() {
+				_classCallCheck(this, IntegerMax);
+			}
+
+			/* js/src/0-core/1-monoids/IntegerMul.js */
+
+			_createClass(IntegerMax, [{
+				key: "zero",
+				value: function zero() {
+					return -Infinity;
+				}
+			}, {
+				key: "plus",
+				value: function plus(a, b) {
+					return Math.max(a, b);
+				}
+			}]);
+
+			return IntegerMax;
 		})();
 
 		var IntegerMul = (function () {
@@ -106,8 +128,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 				_get(Object.getPrototypeOf(Counter.prototype), "constructor", this).call(this, Monoids.INTEGER_ADD);
 			}
 
-			/* js/src/1-api */
-			/* js/src/1-api/0-Monoids.js */
+			/* js/src/0-core/2-derived/Max.js */
 
 			_createClass(Counter, [{
 				key: "measure",
@@ -119,10 +140,33 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			return Counter;
 		})(Measure);
 
+		var Max = (function (_Measure2) {
+			_inherits(Max, _Measure2);
+
+			function Max() {
+				_classCallCheck(this, Max);
+
+				_get(Object.getPrototypeOf(Max.prototype), "constructor", this).call(this, Monoids.INTEGER_MAX);
+			}
+
+			/* js/src/1-api */
+			/* js/src/1-api/0-Monoids.js */
+
+			_createClass(Max, [{
+				key: "measure",
+				value: function measure(element) {
+					return element;
+				}
+			}]);
+
+			return Max;
+		})(Measure);
+
 		var Monoids = {};
 
 		Monoids.INTEGER_ADD = new IntegerAdd();
 		Monoids.INTEGER_MUL = new IntegerMul();
+		Monoids.INTEGER_MAX = new IntegerMax();
 
 		exports.Monoids = Monoids;
 
@@ -131,6 +175,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 		var Measures = {};
 
 		Measures.COUNTER = new Counter();
+		Measures.MAX = new Max();
 
 		exports.Measures = Measures;
 
