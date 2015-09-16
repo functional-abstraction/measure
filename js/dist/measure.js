@@ -101,8 +101,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 				_classCallCheck(this, IntegerMul);
 			}
 
-			/* js/src/0-core/2-derived */
-			/* js/src/0-core/2-derived/Counter.js */
+			/* js/src/0-core/1-monoids/KeyMonoid.js */
 
 			_createClass(IntegerMul, [{
 				key: "zero",
@@ -119,6 +118,31 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			return IntegerMul;
 		})();
 
+		var NoKey = {};
+
+		var KeyMonoid = (function () {
+			function KeyMonoid() {
+				_classCallCheck(this, KeyMonoid);
+			}
+
+			/* js/src/0-core/2-derived */
+			/* js/src/0-core/2-derived/Counter.js */
+
+			_createClass(KeyMonoid, [{
+				key: "zero",
+				value: function zero() {
+					return NoKey;
+				}
+			}, {
+				key: "plus",
+				value: function plus(a, b) {
+					return b === NoKey ? a : b;
+				}
+			}]);
+
+			return KeyMonoid;
+		})();
+
 		var Counter = (function (_Measure) {
 			_inherits(Counter, _Measure);
 
@@ -128,7 +152,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 				_get(Object.getPrototypeOf(Counter.prototype), "constructor", this).call(this, Monoids.INTEGER_ADD);
 			}
 
-			/* js/src/0-core/2-derived/Max.js */
+			/* js/src/0-core/2-derived/KeyMeasure.js */
 
 			_createClass(Counter, [{
 				key: "measure",
@@ -140,8 +164,29 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			return Counter;
 		})(Measure);
 
-		var Max = (function (_Measure2) {
-			_inherits(Max, _Measure2);
+		var KeyMeasure = (function (_Measure2) {
+			_inherits(KeyMeasure, _Measure2);
+
+			function KeyMeasure() {
+				_classCallCheck(this, KeyMeasure);
+
+				_get(Object.getPrototypeOf(KeyMeasure.prototype), "constructor", this).call(this, Monoids.KEY);
+			}
+
+			/* js/src/0-core/2-derived/Max.js */
+
+			_createClass(KeyMeasure, [{
+				key: "measure",
+				value: function measure(element) {
+					return element;
+				}
+			}]);
+
+			return KeyMeasure;
+		})(Measure);
+
+		var Max = (function (_Measure3) {
+			_inherits(Max, _Measure3);
 
 			function Max() {
 				_classCallCheck(this, Max);
@@ -167,6 +212,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 		Monoids.INTEGER_ADD = new IntegerAdd();
 		Monoids.INTEGER_MUL = new IntegerMul();
 		Monoids.INTEGER_MAX = new IntegerMax();
+		Monoids.KEY = new KeyMonoid();
 
 		exports.Monoids = Monoids;
 
@@ -176,6 +222,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 		Measures.COUNTER = new Counter();
 		Measures.MAX = new Max();
+		Measures.KEY = new KeyMeasure();
 
 		exports.Measures = Measures;
 
