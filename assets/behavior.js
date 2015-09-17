@@ -275,6 +275,26 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               },
               "depth": 3,
               "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/1-monoids/product.js",
+                "projectPath": "js/src/0-core/1-monoids/product.js",
+                "targetPath": "0-core/1-monoids/product",
+                "pageTitle": "0-core/1-monoids/product",
+                "title": "product"
+              },
+              "depth": 3,
+              "outline": []
             }
           ]
         }, {
@@ -302,6 +322,26 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "targetPath": "0-core/2-derived/Counter",
                 "pageTitle": "0-core/2-derived/Counter",
                 "title": "Counter"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/aureooms/dev/js/js-measure/js/src/0-core/2-derived/Interval.js",
+                "projectPath": "js/src/0-core/2-derived/Interval.js",
+                "targetPath": "0-core/2-derived/Interval",
+                "pageTitle": "0-core/2-derived/Interval",
+                "title": "Interval"
               },
               "depth": 3,
               "outline": []
