@@ -221,7 +221,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			_createClass(Interval, [{
 				key: "measure",
 				value: function measure(element) {
-					return [element.low, element.high];
+					return element;
 				}
 			}]);
 

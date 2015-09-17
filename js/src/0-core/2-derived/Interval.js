@@ -6,7 +6,7 @@ class Interval extends Measure {
 	}
 
 	measure ( element ) {
-		return [ element.low , element.high ] ;
+		return element ;
 	}
 
 }
