@@ -1,5 +1,7 @@
 "use strict";
 
+var _slicedToArray = (function () { function sliceIterator(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"]) _i["return"](); } finally { if (_d) throw _e; } } return _arr; } return function (arr, i) { if (Array.isArray(arr)) { return arr; } else if (Symbol.iterator in Object(arr)) { return sliceIterator(arr, i); } else { throw new TypeError("Invalid attempt to destructure non-iterable instance"); } }; })();
+
 var _get = function get(_x2, _x3, _x4) { var _again = true; _function: while (_again) { var object = _x2, property = _x3, receiver = _x4; desc = parent = getter = undefined; _again = false; if (object === null) object = Function.prototype; var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { _x2 = parent; _x3 = property; _x4 = receiver; _again = true; continue _function; } } else if ("value" in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } } };
 
 var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
@@ -125,8 +127,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 				_classCallCheck(this, KeyMonoid);
 			}
 
-			/* js/src/0-core/2-derived */
-			/* js/src/0-core/2-derived/Counter.js */
+			/* js/src/0-core/1-monoids/product.js */
 
 			_createClass(KeyMonoid, [{
 				key: "zero",
@@ -143,6 +144,48 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			return KeyMonoid;
 		})();
 
+		var Product = (function () {
+			function Product(a, b) {
+				_classCallCheck(this, Product);
+
+				this.a = a;
+				this.b = b;
+			}
+
+			_createClass(Product, [{
+				key: "zero",
+				value: function zero() {
+					return [this.a.zero(), this.b.zero()];
+				}
+			}, {
+				key: "plus",
+				value: function plus(_ref, _ref3) {
+					var _ref2 = _slicedToArray(_ref, 2);
+
+					var a = _ref2[0];
+					var b = _ref2[1];
+
+					var _ref32 = _slicedToArray(_ref3, 2);
+
+					var A = _ref32[0];
+					var B = _ref32[1];
+
+					return [this.a.plus(a, A), this.b.plus(b, B)];
+				}
+			}]);
+
+			return Product;
+		})();
+
+		function product(a, b) {
+			return new Product(a, b);
+		}
+
+		exports.product = product;
+
+		/* js/src/0-core/2-derived */
+		/* js/src/0-core/2-derived/Counter.js */
+
 		var Counter = (function (_Measure) {
 			_inherits(Counter, _Measure);
 
@@ -152,7 +195,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 				_get(Object.getPrototypeOf(Counter.prototype), "constructor", this).call(this, Monoids.INTEGER_ADD);
 			}
 
-			/* js/src/0-core/2-derived/KeyMeasure.js */
+			/* js/src/0-core/2-derived/Interval.js */
 
 			_createClass(Counter, [{
 				key: "measure",
@@ -164,8 +207,29 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			return Counter;
 		})(Measure);
 
-		var KeyMeasure = (function (_Measure2) {
-			_inherits(KeyMeasure, _Measure2);
+		var Interval = (function (_Measure2) {
+			_inherits(Interval, _Measure2);
+
+			function Interval() {
+				_classCallCheck(this, Interval);
+
+				_get(Object.getPrototypeOf(Interval.prototype), "constructor", this).call(this, Monoids.KEY_PRIO);
+			}
+
+			/* js/src/0-core/2-derived/KeyMeasure.js */
+
+			_createClass(Interval, [{
+				key: "measure",
+				value: function measure(element) {
+					return [element.low, element.high];
+				}
+			}]);
+
+			return Interval;
+		})(Measure);
+
+		var KeyMeasure = (function (_Measure3) {
+			_inherits(KeyMeasure, _Measure3);
 
 			function KeyMeasure() {
 				_classCallCheck(this, KeyMeasure);
@@ -185,8 +249,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 			return KeyMeasure;
 		})(Measure);
 
-		var Max = (function (_Measure3) {
-			_inherits(Max, _Measure3);
+		var Max = (function (_Measure4) {
+			_inherits(Max, _Measure4);
 
 			function Max() {
 				_classCallCheck(this, Max);
@@ -213,6 +277,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 		Monoids.INTEGER_MUL = new IntegerMul();
 		Monoids.INTEGER_MAX = new IntegerMax();
 		Monoids.KEY = new KeyMonoid();
+		Monoids.KEY_PRIO = product(Monoids.KEY, Monoids.INTEGER_MAX);
 
 		exports.Monoids = Monoids;
 
@@ -223,6 +288,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 		Measures.COUNTER = new Counter();
 		Measures.MAX = new Max();
 		Measures.KEY = new KeyMeasure();
+		Measures.INTERVAL = new Interval();
+
+		Measures.PRIO = Measures.MAX;
+		Measures.SIZE = Measures.COUNTER;
 
 		exports.Measures = Measures;
 
