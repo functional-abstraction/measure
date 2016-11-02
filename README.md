@@ -11,7 +11,6 @@ class Monoid a where
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-measure.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-measure/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-measure.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-measure)
-[![Bower version](http://img.shields.io/bower/v/aureooms-js-measure.svg?style=flat)](http://bower.io/search/?q=aureooms-js-measure)
 [![Build Status](http://img.shields.io/travis/aureooms/js-measure.svg?style=flat)](https://travis-ci.org/aureooms/js-measure)
 [![Coverage Status](http://img.shields.io/coveralls/aureooms/js-measure.svg?style=flat)](https://coveralls.io/r/aureooms/js-measure)
 [![Dependencies Status](http://img.shields.io/david/aureooms/js-measure.svg?style=flat)](https://david-dm.org/aureooms/js-measure#info=dependencies)
@@ -20,8 +19,3 @@ class Monoid a where
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-measure.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-measure)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-measure.svg?style=flat)](https://github.com/aureooms/js-measure/issues)
 [![Documentation](https://aureooms.github.io/js-measure/badge.svg)](https://aureooms.github.io/js-measure/source.html)
-
-
-Can be managed through
-[jspm](https://github.com/jspm/jspm-cli)
-and [npm](https://github.com/npm/npm).
