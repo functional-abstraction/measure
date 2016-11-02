@@ -9,6 +9,10 @@ export class Product {
 		return [ this.a.zero( ) , this.b.zero( ) ] ;
 	}
 
+	/**
+	 * @param first
+	 * @param second
+	 */
 	plus ( [ a , b ] , [ A , B ] ) {
 		return [ this.a.plus( a , A ) , this.b.plus( b , B ) ] ;
 	}
