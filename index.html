@@ -2,8 +2,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <base data-ice="baseUrl" href="../../../../">
-  <title data-ice="title">src/0-core/0-base/Measure.js | aureooms/js-measure API Document</title>
+  <base data-ice="baseUrl">
+  <title data-ice="title">aureooms/js-measure API Document</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
@@ -53,48 +53,27 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><h1 data-ice="title">src/0-core/0-base/Measure.js</h1>
-<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">/**
- * Abstract Measure class.
- */
-export class Measure {
-
-	/**
-	 * Constructor, stores the monoid.
-	 */
-	constructor ( monoid ) {
-		this.monoid = monoid ;
-	}
-
-	/**
-	 * Returns the zero measure according to the monoid.
-	 */
-	zero ( ) {
-		return this.monoid.zero( ) ;
-	}
-
-	/**
-	 * Adds measures together using monoid#plus.
-	 */
-	plus ( a , b , c = undefined ) {
-
-		if ( c === undefined ) return this.monoid.plus( a , b ) ;
-
-		return this.monoid.plus( a , this.monoid.plus( b , c ) ) ;
-
-	}
-
-	/**
-	 * Returns the measure of an element. Must be implemented by classes
-	 * extending Measure
-	 */
-	measure ( element ) {
-		throw new Error( &quot;measure : not implemented&quot; ) ;
-	}
-
-}
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-js-measure-http-aureooms-github-io-js-measure-"><a href="http://aureooms.github.io/js-measure">js-measure</a></h1>
+<p>Monoids and measures for JavaScript.</p>
+<pre><code class="lang-js"><code class="source-code prettyprint">class Monoid a where
+   0 :: =&gt; a
+   + :: a =&gt; a =&gt; a</code>
 </code></pre>
-
+<p><a href="https://raw.githubusercontent.com/aureooms/js-measure/master/LICENSE"><img src="http://img.shields.io/npm/l/aureooms-js-measure.svg?style=flat" alt="NPM license"></a>
+<a href="https://www.npmjs.org/package/aureooms-js-measure"><img src="http://img.shields.io/npm/v/aureooms-js-measure.svg?style=flat" alt="NPM version"></a>
+<a href="http://bower.io/search/?q=aureooms-js-measure"><img src="http://img.shields.io/bower/v/aureooms-js-measure.svg?style=flat" alt="Bower version"></a>
+<a href="https://travis-ci.org/aureooms/js-measure"><img src="http://img.shields.io/travis/aureooms/js-measure.svg?style=flat" alt="Build Status"></a>
+<a href="https://coveralls.io/r/aureooms/js-measure"><img src="http://img.shields.io/coveralls/aureooms/js-measure.svg?style=flat" alt="Coverage Status"></a>
+<a href="https://david-dm.org/aureooms/js-measure#info=dependencies"><img src="http://img.shields.io/david/aureooms/js-measure.svg?style=flat" alt="Dependencies Status"></a>
+<a href="https://david-dm.org/aureooms/js-measure#info=devDependencies"><img src="http://img.shields.io/david/dev/aureooms/js-measure.svg?style=flat" alt="devDependencies Status"></a>
+<a href="https://codeclimate.com/github/aureooms/js-measure"><img src="http://img.shields.io/codeclimate/github/aureooms/js-measure.svg?style=flat" alt="Code Climate"></a>
+<a href="https://www.npmjs.org/package/aureooms-js-measure"><img src="http://img.shields.io/npm/dm/aureooms-js-measure.svg?style=flat" alt="NPM downloads per month"></a>
+<a href="https://github.com/aureooms/js-measure/issues"><img src="http://img.shields.io/github/issues/aureooms/js-measure.svg?style=flat" alt="GitHub issues"></a>
+<a href="https://aureooms.github.io/js-measure/source.html"><img src="https://aureooms.github.io/js-measure/badge.svg" alt="Documentation"></a></p>
+<p>Can be managed through
+<a href="https://github.com/jspm/jspm-cli">jspm</a>
+and <a href="https://github.com/npm/npm">npm</a>.</p>
+</div>
 </div>
 
 <footer class="footer">
