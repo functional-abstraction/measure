@@ -1,38 +1,50 @@
 {
-	"description": "Measure code bricks for JavaScript",
-	"bugs": {
-		"url": "https://github.com/aureooms/js-measure/issues"
-	},
-	"keywords": [
-		"bricks",
-		"ender",
-		"functional",
-		"javascript",
-		"js",
-		"measure",
-		"monoid"
-	],
-	"scripts": {
-		"test": "./node_modules/.bin/aureooms-node-package-test",
-		"build": "./node_modules/.bin/aureooms-node-package-build",
-		"doc": "./node_modules/.bin/groc"
-	},
-	"license": "AGPL-3.0",
-	"homepage": "http://aureooms.github.io/js-measure/",
-	"spm": {
-		"main": "js/dist/measure.js"
-	},
-	"devDependencies": {
-		"aureooms-js-itertools": "^1.3.0",
-		"aureooms-node-package": "^6.0.1"
-	},
-	"author": "aureooms",
-	"main": "js/dist/measure.js",
-	"repository": {
-		"url": "https://github.com/aureooms/js-measure.git",
-		"type": "git"
-	},
-	"name": "aureooms-js-measure",
-	"version": "0.2.0",
-	"dependencies": {}
+  "name": "aureooms-js-measure",
+  "description": "Monoids and measures for JavaScript",
+  "version": "0.2.0",
+  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
+  "ava": {
+    "require": [
+      "babel-polyfill",
+      "babel-register"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ],
+    "env": {
+      "development": {
+        "sourceMaps": "inline"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/aureooms/js-measure/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "aureooms-js-itertools": "^1.3.0"
+  },
+  "homepage": "http://aureooms.github.io/js-measure",
+  "keywords": [
+    "bricks",
+    "functional",
+    "javascript",
+    "js",
+    "measure",
+    "monoid"
+  ],
+  "license": "AGPL-3.0",
+  "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/aureooms/js-measure.git",
+    "type": "git"
+  },
+  "scripts": {
+    "build": "babel src -d lib",
+    "cover": "nyc --reporter=lcov npm test",
+    "prepublish": "npm run build",
+    "test": "ava ./test/src"
+  }
 }
