@@ -1,0 +1,129 @@
+{
+  "type": "Program",
+  "body": [
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./0-base",
+        "raw": "'./0-base'",
+        "range": [
+          14,
+          24
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 24
+          }
+        }
+      },
+      "range": [
+        0,
+        26
+      ],
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 26
+        }
+      }
+    },
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./1-monoids",
+        "raw": "'./1-monoids'",
+        "range": [
+          41,
+          54
+        ],
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 27
+          }
+        }
+      },
+      "range": [
+        27,
+        56
+      ],
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 29
+        }
+      }
+    },
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./2-derived",
+        "raw": "'./2-derived'",
+        "range": [
+          71,
+          84
+        ],
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 27
+          }
+        }
+      },
+      "range": [
+        57,
+        86
+      ],
+      "loc": {
+        "start": {
+          "line": 3,
+          "column": 0
+        },
+        "end": {
+          "line": 3,
+          "column": 29
+        }
+      }
+    }
+  ],
+  "sourceType": "module",
+  "range": [
+    0,
+    86
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0
+    },
+    "end": {
+      "line": 3,
+      "column": 29
+    }
+  },
+  "comments": []
+}

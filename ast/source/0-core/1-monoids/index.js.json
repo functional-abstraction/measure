@@ -1,0 +1,201 @@
+{
+  "type": "Program",
+  "body": [
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./IntegerAdd",
+        "raw": "'./IntegerAdd'",
+        "range": [
+          14,
+          28
+        ],
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 28
+          }
+        }
+      },
+      "range": [
+        0,
+        30
+      ],
+      "loc": {
+        "start": {
+          "line": 1,
+          "column": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 30
+        }
+      }
+    },
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./IntegerMax",
+        "raw": "'./IntegerMax'",
+        "range": [
+          45,
+          59
+        ],
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 28
+          }
+        }
+      },
+      "range": [
+        31,
+        61
+      ],
+      "loc": {
+        "start": {
+          "line": 2,
+          "column": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 30
+        }
+      }
+    },
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./IntegerMul",
+        "raw": "'./IntegerMul'",
+        "range": [
+          76,
+          90
+        ],
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 28
+          }
+        }
+      },
+      "range": [
+        62,
+        92
+      ],
+      "loc": {
+        "start": {
+          "line": 3,
+          "column": 0
+        },
+        "end": {
+          "line": 3,
+          "column": 30
+        }
+      }
+    },
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./KeyMonoid",
+        "raw": "'./KeyMonoid'",
+        "range": [
+          107,
+          120
+        ],
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 27
+          }
+        }
+      },
+      "range": [
+        93,
+        122
+      ],
+      "loc": {
+        "start": {
+          "line": 4,
+          "column": 0
+        },
+        "end": {
+          "line": 4,
+          "column": 29
+        }
+      }
+    },
+    {
+      "type": "ExportAllDeclaration",
+      "source": {
+        "type": "Literal",
+        "value": "./Product",
+        "raw": "'./Product'",
+        "range": [
+          137,
+          148
+        ],
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 25
+          }
+        }
+      },
+      "range": [
+        123,
+        150
+      ],
+      "loc": {
+        "start": {
+          "line": 5,
+          "column": 0
+        },
+        "end": {
+          "line": 5,
+          "column": 27
+        }
+      }
+    }
+  ],
+  "sourceType": "module",
+  "range": [
+    0,
+    150
+  ],
+  "loc": {
+    "start": {
+      "line": 1,
+      "column": 0
+    },
+    "end": {
+      "line": 5,
+      "column": 27
+    }
+  },
+  "comments": []
+}
