@@ -1,5 +1,5 @@
 import { Measure } from '../0-base' ;
-import { Monoids } from '../../1-api' ;
+import { Monoids } from '../../1-api/0-Monoids' ;
 
 export class KeyMeasure extends Measure {
 
