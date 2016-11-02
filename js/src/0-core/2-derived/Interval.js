@@ -2,7 +2,7 @@
 class Interval extends Measure {
 
 	constructor ( ) {
-		super( Monoids.KEY_PRIO ) ;
+		super( Monoids.KEY_MAX ) ;
 	}
 
 	measure ( element ) {
