@@ -1,6 +1,6 @@
 import test from 'ava' ;
 
-import { range , reduce , map } from "aureooms-js-itertools" ;
+import { range , reduce , map } from "@aureooms/js-itertools" ;
 
 import { Measures } from '../../src' ;
 
