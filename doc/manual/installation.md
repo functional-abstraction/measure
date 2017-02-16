@@ -4,10 +4,10 @@ or [npm](https://github.com/npm/npm).
 
 ### jspm
 ```terminal
-jspm install npm:aureooms-js-measure
+jspm install npm:@aureooms/js-measure
 ```
 
 ### npm
 ```terminal
-npm install aureooms-js-measure --save
+npm install @aureooms/js-measure --save
 ```
