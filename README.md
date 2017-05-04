@@ -1,7 +1,11 @@
-[js-measure](http://aureooms.github.io/js-measure)
+[@aureooms/js-measure](https://aureooms.github.io/js-measure)
 ==
 
+<img src="https://bartoszmilewski.files.wordpress.com/2016/12/monoid-1.jpg" width="864">
+
 Monoids and measures for JavaScript.
+See [docs](https://aureooms.github.io/js-measure).
+Parent is [@aureooms/js-algebra](https://github.com/aureooms/js-algebra).
 
 ```js
 class Monoid a where
