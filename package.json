@@ -25,7 +25,7 @@
   "dependencies": {},
   "devDependencies": {
     "@aureooms/js-itertools": "^3.0.0",
-    "ava": "^0.19.0",
+    "ava": "^0.20.0",
     "babel-cli": "^6.18.0",
     "babel-polyfill": "^6.16.0",
     "babel-preset-latest": "^6.16.0",
