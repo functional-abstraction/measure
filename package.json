@@ -62,6 +62,7 @@
     "build": "babel src -d lib",
     "cover": "nyc --reporter=lcov npm test",
     "prepublish": "npm run build",
-    "test": "ava ./test/src"
+    "test": "ava ./test/src",
+    "esdoc": "esdoc"
   }
 }
