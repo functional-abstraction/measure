@@ -25,5 +25,5 @@ class Monoid a where
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-measure/main.svg)](https://codecov.io/gh/aureooms/js-measure)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/technical_debt)
-[![Documentation](http://aureooms.github.io/js-measure/badge.svg)](http://aureooms.github.io/js-measure/source.html)
+[![Documentation](https://aureooms.github.io/js-measure/badge.svg)](https://aureooms.github.io/js-measure/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-measure)](https://bundlephobia.com/result?p=@aureooms/js-measure)
