@@ -1,5 +1,5 @@
-export * from './IntegerAdd' ;
-export * from './IntegerMax' ;
-export * from './IntegerMul' ;
-export * from './KeyMonoid' ;
-export * from './Product' ;
+export * from "./IntegerAdd.js" ;
+export * from "./IntegerMax.js" ;
+export * from "./IntegerMul.js" ;
+export * from "./KeyMonoid.js" ;
+export * from "./Product.js" ;

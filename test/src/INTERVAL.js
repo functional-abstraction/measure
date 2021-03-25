@@ -2,7 +2,7 @@ import test from 'ava' ;
 
 import { range , reduce , map } from "@aureooms/js-itertools" ;
 
-import { Measures } from '../../src' ;
+import { Measures } from "../../src/index.js" ;
 
 test( "interval" , t => {
 

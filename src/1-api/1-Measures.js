@@ -4,7 +4,7 @@ import {
 	KeyMeasure ,
 	KeyLen ,
 	Interval
-} from '../0-core' ;
+} from "../0-core/index.js" ;
 
 const COUNTER = new Counter( ) ;
 const MAX = new Max( ) ;

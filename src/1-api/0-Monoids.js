@@ -4,7 +4,7 @@ import {
 	IntegerMax ,
 	KeyMonoid ,
 	product
-} from '../0-core' ;
+} from "../0-core/index.js" ;
 
 const INTEGER_ADD = new IntegerAdd( ) ;
 const INTEGER_MUL = new IntegerMul( ) ;
