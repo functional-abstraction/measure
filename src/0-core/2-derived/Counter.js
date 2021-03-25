@@ -7,7 +7,7 @@ export class Counter extends Measure {
 		super( Monoids.INTEGER_ADD ) ;
 	}
 
-	measure ( element ) {
+	measure ( _element ) {
 		return 1 ;
 	}
 

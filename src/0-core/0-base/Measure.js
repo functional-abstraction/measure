@@ -32,7 +32,7 @@ export class Measure {
 	 * Returns the measure of an element. Must be implemented by classes
 	 * extending Measure
 	 */
-	measure ( element ) {
+	measure ( _element ) {
 		throw new Error( "measure : not implemented" ) ;
 	}
 
