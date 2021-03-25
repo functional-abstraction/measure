@@ -1,12 +1,9 @@
-
 export class IntegerAdd {
-
-	zero ( ) {
-		return 0 ;
+	zero() {
+		return 0;
 	}
 
-	plus ( a , b ) {
-		return a + b ;
+	plus(a, b) {
+		return a + b;
 	}
-
 }
