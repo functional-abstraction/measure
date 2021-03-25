@@ -15,7 +15,7 @@ class Monoid a where
 
 [![License](https://img.shields.io/github/license/aureooms/js-measure.svg)](https://raw.githubusercontent.com/aureooms/js-measure/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)
-[![Build](https://img.shields.io/travis/aureooms/js-measure/main.svg)](https://travis-ci.org/aureooms/js-measure/branches)
+[![Build](https://img.shields.io/travis/aureooms/js-measure/main.svg)](https://travis-ci.com/aureooms/js-measure/branches)
 [![Dependencies](https://img.shields.io/david/aureooms/js-measure.svg)](https://david-dm.org/aureooms/js-measure)
 [![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-measure.svg)](https://david-dm.org/aureooms/js-measure?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-measure.svg)](https://github.com/aureooms/js-measure/issues)
