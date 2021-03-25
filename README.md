@@ -2,7 +2,16 @@
 [@aureooms/js-measure](https://aureooms.github.io/js-measure)
 ==
 
-<img src="https://bartoszmilewski.files.wordpress.com/2016/12/monoid-1.jpg" width="864">
+<p align="center">
+<a href="https://bartoszmilewski.com/2016/12/27/monads-categorically">
+<img src="https://bartoszmilewski.files.wordpress.com/2016/12/monoid-1.jpg" width="400">
+</a><br/>
+<a href="https://bartoszmilewski.com">
+Bartosz Milewski's Programming Cafe
+</a>
+/
+<a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>
+</p>
 
 Monoids and measures for JavaScript.
 See [docs](https://aureooms.github.io/js-measure).
