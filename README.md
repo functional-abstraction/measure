@@ -1,3 +1,4 @@
+:straight_ruler:
 [@aureooms/js-measure](https://aureooms.github.io/js-measure)
 ==
 
