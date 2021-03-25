@@ -175,5 +175,8 @@
         ]
       }
     }
+  },
+  "prettier": {
+    "trailingComma": "all"
   }
 }
