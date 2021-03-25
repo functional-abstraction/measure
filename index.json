@@ -1,0 +1,1985 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/0-core/0-base/Measure.js",
+    "content": "/**\n * Abstract Measure class.\n */\nexport class Measure {\n\t/**\n\t * Constructor, stores the monoid.\n\t */\n\tconstructor(monoid) {\n\t\tthis.monoid = monoid;\n\t}\n\n\t/**\n\t * Returns the zero measure according to the monoid.\n\t */\n\tzero() {\n\t\treturn this.monoid.zero();\n\t}\n\n\t/**\n\t * Adds measures together using monoid#plus.\n\t */\n\tplus(a, b, c = undefined) {\n\t\tif (c === undefined) return this.monoid.plus(a, b);\n\n\t\treturn this.monoid.plus(a, this.monoid.plus(b, c));\n\t}\n\n\t/**\n\t * Returns the measure of an element. Must be implemented by classes\n\t * extending Measure\n\t */\n\tmeasure(_element) {\n\t\tthrow new Error('measure : not implemented');\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/0-base/Measure.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "Measure",
+    "memberof": "src/0-core/0-base/Measure.js",
+    "static": true,
+    "longname": "src/0-core/0-base/Measure.js~Measure",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/0-base/Measure.js",
+    "importStyle": "{Measure}",
+    "description": "Abstract Measure class.",
+    "lineNumber": 4,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/0-base/Measure.js~Measure",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/0-base/Measure.js~Measure#constructor",
+    "access": "public",
+    "description": "Constructor, stores the monoid.",
+    "lineNumber": 8
+  },
+  {
+    "__docId__": 51,
+    "kind": "member",
+    "name": "monoid",
+    "memberof": "src/0-core/0-base/Measure.js~Measure",
+    "static": false,
+    "longname": "src/0-core/0-base/Measure.js~Measure#monoid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "method",
+    "name": "zero",
+    "memberof": "src/0-core/0-base/Measure.js~Measure",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/0-base/Measure.js~Measure#zero",
+    "access": "public",
+    "description": "Returns the zero measure according to the monoid.",
+    "lineNumber": 15,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "plus",
+    "memberof": "src/0-core/0-base/Measure.js~Measure",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/0-base/Measure.js~Measure#plus",
+    "access": "public",
+    "description": "Adds measures together using monoid#plus.",
+    "lineNumber": 22,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "c",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "undefined",
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "measure",
+    "memberof": "src/0-core/0-base/Measure.js~Measure",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/0-base/Measure.js~Measure#measure",
+    "access": "public",
+    "description": "Returns the measure of an element. Must be implemented by classes\nextending Measure",
+    "lineNumber": 32,
+    "params": [
+      {
+        "name": "_element",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/0-core/0-base/index.js",
+    "content": "export * from './Measure.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/0-base/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/0-core/1-monoids/IntegerAdd.js",
+    "content": "export class IntegerAdd {\n\tzero() {\n\t\treturn 0;\n\t}\n\n\tplus(a, b) {\n\t\treturn a + b;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/1-monoids/IntegerAdd.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "class",
+    "name": "IntegerAdd",
+    "memberof": "src/0-core/1-monoids/IntegerAdd.js",
+    "static": true,
+    "longname": "src/0-core/1-monoids/IntegerAdd.js~IntegerAdd",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/IntegerAdd.js",
+    "importStyle": "{IntegerAdd}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 58,
+    "kind": "method",
+    "name": "zero",
+    "memberof": "src/0-core/1-monoids/IntegerAdd.js~IntegerAdd",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/IntegerAdd.js~IntegerAdd#zero",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "number"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "plus",
+    "memberof": "src/0-core/1-monoids/IntegerAdd.js~IntegerAdd",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/IntegerAdd.js~IntegerAdd#plus",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/0-core/1-monoids/IntegerMax.js",
+    "content": "export class IntegerMax {\n\tzero() {\n\t\treturn Number.NEGATIVE_INFINITY;\n\t}\n\n\tplus(a, b) {\n\t\treturn Math.max(a, b);\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/1-monoids/IntegerMax.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "class",
+    "name": "IntegerMax",
+    "memberof": "src/0-core/1-monoids/IntegerMax.js",
+    "static": true,
+    "longname": "src/0-core/1-monoids/IntegerMax.js~IntegerMax",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/IntegerMax.js",
+    "importStyle": "{IntegerMax}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 62,
+    "kind": "method",
+    "name": "zero",
+    "memberof": "src/0-core/1-monoids/IntegerMax.js~IntegerMax",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/IntegerMax.js~IntegerMax#zero",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "method",
+    "name": "plus",
+    "memberof": "src/0-core/1-monoids/IntegerMax.js~IntegerMax",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/IntegerMax.js~IntegerMax#plus",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/0-core/1-monoids/IntegerMul.js",
+    "content": "export class IntegerMul {\n\tzero() {\n\t\treturn 1;\n\t}\n\n\tplus(a, b) {\n\t\treturn a * b;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/1-monoids/IntegerMul.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "class",
+    "name": "IntegerMul",
+    "memberof": "src/0-core/1-monoids/IntegerMul.js",
+    "static": true,
+    "longname": "src/0-core/1-monoids/IntegerMul.js~IntegerMul",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/IntegerMul.js",
+    "importStyle": "{IntegerMul}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "zero",
+    "memberof": "src/0-core/1-monoids/IntegerMul.js~IntegerMul",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/IntegerMul.js~IntegerMul#zero",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "number"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "method",
+    "name": "plus",
+    "memberof": "src/0-core/1-monoids/IntegerMul.js~IntegerMul",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/IntegerMul.js~IntegerMul#plus",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "file",
+    "name": "src/0-core/1-monoids/KeyMonoid.js",
+    "content": "export const NoKey = {};\n\nexport class KeyMonoid {\n\tzero() {\n\t\treturn NoKey;\n\t}\n\n\tplus(a, b) {\n\t\treturn b === NoKey ? a : b;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/1-monoids/KeyMonoid.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 69,
+    "kind": "variable",
+    "name": "NoKey",
+    "memberof": "src/0-core/1-monoids/KeyMonoid.js",
+    "static": true,
+    "longname": "src/0-core/1-monoids/KeyMonoid.js~NoKey",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/KeyMonoid.js",
+    "importStyle": "{NoKey}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{}"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "class",
+    "name": "KeyMonoid",
+    "memberof": "src/0-core/1-monoids/KeyMonoid.js",
+    "static": true,
+    "longname": "src/0-core/1-monoids/KeyMonoid.js~KeyMonoid",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/KeyMonoid.js",
+    "importStyle": "{KeyMonoid}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "zero",
+    "memberof": "src/0-core/1-monoids/KeyMonoid.js~KeyMonoid",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/KeyMonoid.js~KeyMonoid#zero",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "method",
+    "name": "plus",
+    "memberof": "src/0-core/1-monoids/KeyMonoid.js~KeyMonoid",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/KeyMonoid.js~KeyMonoid#plus",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/0-core/1-monoids/Product.js",
+    "content": "export class Product {\n\tconstructor(a, b) {\n\t\tthis.a = a;\n\t\tthis.b = b;\n\t}\n\n\tzero() {\n\t\treturn [this.a.zero(), this.b.zero()];\n\t}\n\n\t/**\n\t * @param first\n\t * @param second\n\t */\n\tplus([a, b], [A, B]) {\n\t\treturn [this.a.plus(a, A), this.b.plus(b, B)];\n\t}\n}\n\nexport function product(a, b) {\n\treturn new Product(a, b);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/1-monoids/Product.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "class",
+    "name": "Product",
+    "memberof": "src/0-core/1-monoids/Product.js",
+    "static": true,
+    "longname": "src/0-core/1-monoids/Product.js~Product",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/Product.js",
+    "importStyle": "{Product}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 75,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/1-monoids/Product.js~Product",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/Product.js~Product#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "member",
+    "name": "a",
+    "memberof": "src/0-core/1-monoids/Product.js~Product",
+    "static": false,
+    "longname": "src/0-core/1-monoids/Product.js~Product#a",
+    "access": "public",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "member",
+    "name": "b",
+    "memberof": "src/0-core/1-monoids/Product.js~Product",
+    "static": false,
+    "longname": "src/0-core/1-monoids/Product.js~Product#b",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "method",
+    "name": "zero",
+    "memberof": "src/0-core/1-monoids/Product.js~Product",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/Product.js~Product#zero",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "plus",
+    "memberof": "src/0-core/1-monoids/Product.js~Product",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/1-monoids/Product.js~Product#plus",
+    "access": "public",
+    "description": "",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "first",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "second",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "product",
+    "memberof": "src/0-core/1-monoids/Product.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/0-core/1-monoids/Product.js~product",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/1-monoids/Product.js",
+    "importStyle": "{product}",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/0-core/1-monoids/index.js",
+    "content": "export * from './IntegerAdd.js';\nexport * from './IntegerMax.js';\nexport * from './IntegerMul.js';\nexport * from './KeyMonoid.js';\nexport * from './Product.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/1-monoids/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "file",
+    "name": "src/0-core/2-derived/Counter.js",
+    "content": "import {Measure} from '../0-base/index.js';\nimport {Monoids} from '../../1-api/0-Monoids.js';\n\nexport class Counter extends Measure {\n\tconstructor() {\n\t\tsuper(Monoids.INTEGER_ADD);\n\t}\n\n\tmeasure(_element) {\n\t\treturn 1;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/2-derived/Counter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 83,
+    "kind": "class",
+    "name": "Counter",
+    "memberof": "src/0-core/2-derived/Counter.js",
+    "static": true,
+    "longname": "src/0-core/2-derived/Counter.js~Counter",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/2-derived/Counter.js",
+    "importStyle": "{Counter}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/0-core/0-base/index.js~Measure"
+    ]
+  },
+  {
+    "__docId__": 84,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/2-derived/Counter.js~Counter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/Counter.js~Counter#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true
+  },
+  {
+    "__docId__": 85,
+    "kind": "method",
+    "name": "measure",
+    "memberof": "src/0-core/2-derived/Counter.js~Counter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/Counter.js~Counter#measure",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "_element",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "number"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "src/0-core/2-derived/Interval.js",
+    "content": "import {Measure} from '../0-base/index.js';\nimport {Monoids} from '../../1-api/0-Monoids.js';\n\nexport class Interval extends Measure {\n\tconstructor() {\n\t\tsuper(Monoids.KEY_MAX);\n\t}\n\n\tmeasure(element) {\n\t\treturn element;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/2-derived/Interval.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "class",
+    "name": "Interval",
+    "memberof": "src/0-core/2-derived/Interval.js",
+    "static": true,
+    "longname": "src/0-core/2-derived/Interval.js~Interval",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/2-derived/Interval.js",
+    "importStyle": "{Interval}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/0-core/0-base/index.js~Measure"
+    ]
+  },
+  {
+    "__docId__": 88,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/2-derived/Interval.js~Interval",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/Interval.js~Interval#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true
+  },
+  {
+    "__docId__": 89,
+    "kind": "method",
+    "name": "measure",
+    "memberof": "src/0-core/2-derived/Interval.js~Interval",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/Interval.js~Interval#measure",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "element",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "file",
+    "name": "src/0-core/2-derived/KeyLen.js",
+    "content": "import {Measure} from '../0-base/index.js';\nimport {Monoids} from '../../1-api/0-Monoids.js';\n\nexport class KeyLen extends Measure {\n\tconstructor() {\n\t\tsuper(Monoids.KEY_ADD);\n\t}\n\n\tmeasure(element) {\n\t\treturn [element, 1];\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/2-derived/KeyLen.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 91,
+    "kind": "class",
+    "name": "KeyLen",
+    "memberof": "src/0-core/2-derived/KeyLen.js",
+    "static": true,
+    "longname": "src/0-core/2-derived/KeyLen.js~KeyLen",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/2-derived/KeyLen.js",
+    "importStyle": "{KeyLen}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/0-core/0-base/index.js~Measure"
+    ]
+  },
+  {
+    "__docId__": 92,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/2-derived/KeyLen.js~KeyLen",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/KeyLen.js~KeyLen#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true
+  },
+  {
+    "__docId__": 93,
+    "kind": "method",
+    "name": "measure",
+    "memberof": "src/0-core/2-derived/KeyLen.js~KeyLen",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/KeyLen.js~KeyLen#measure",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "element",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "src/0-core/2-derived/KeyMeasure.js",
+    "content": "import {Measure} from '../0-base/index.js';\nimport {Monoids} from '../../1-api/0-Monoids.js';\n\nexport class KeyMeasure extends Measure {\n\tconstructor() {\n\t\tsuper(Monoids.KEY);\n\t}\n\n\tmeasure(element) {\n\t\treturn element;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/2-derived/KeyMeasure.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 95,
+    "kind": "class",
+    "name": "KeyMeasure",
+    "memberof": "src/0-core/2-derived/KeyMeasure.js",
+    "static": true,
+    "longname": "src/0-core/2-derived/KeyMeasure.js~KeyMeasure",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/2-derived/KeyMeasure.js",
+    "importStyle": "{KeyMeasure}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/0-core/0-base/index.js~Measure"
+    ]
+  },
+  {
+    "__docId__": 96,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/2-derived/KeyMeasure.js~KeyMeasure",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/KeyMeasure.js~KeyMeasure#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true
+  },
+  {
+    "__docId__": 97,
+    "kind": "method",
+    "name": "measure",
+    "memberof": "src/0-core/2-derived/KeyMeasure.js~KeyMeasure",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/KeyMeasure.js~KeyMeasure#measure",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "element",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "src/0-core/2-derived/Max.js",
+    "content": "import {Measure} from '../0-base/index.js';\nimport {Monoids} from '../../1-api/0-Monoids.js';\n\nexport class Max extends Measure {\n\tconstructor() {\n\t\tsuper(Monoids.INTEGER_MAX);\n\t}\n\n\tmeasure(element) {\n\t\treturn element;\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/2-derived/Max.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "class",
+    "name": "Max",
+    "memberof": "src/0-core/2-derived/Max.js",
+    "static": true,
+    "longname": "src/0-core/2-derived/Max.js~Max",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/0-core/2-derived/Max.js",
+    "importStyle": "{Max}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/0-core/0-base/index.js~Measure"
+    ]
+  },
+  {
+    "__docId__": 100,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/0-core/2-derived/Max.js~Max",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/Max.js~Max#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true
+  },
+  {
+    "__docId__": 101,
+    "kind": "method",
+    "name": "measure",
+    "memberof": "src/0-core/2-derived/Max.js~Max",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/0-core/2-derived/Max.js~Max#measure",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "element",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "file",
+    "name": "src/0-core/2-derived/index.js",
+    "content": "export * from './Counter.js';\nexport * from './Interval.js';\nexport * from './KeyLen.js';\nexport * from './KeyMeasure.js';\nexport * from './Max.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/2-derived/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 103,
+    "kind": "file",
+    "name": "src/0-core/index.js",
+    "content": "export * from './0-base/index.js';\nexport * from './1-monoids/index.js';\nexport * from './2-derived/index.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/0-core/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 104,
+    "kind": "file",
+    "name": "src/1-api/0-Monoids.js",
+    "content": "import {\n\tIntegerAdd,\n\tIntegerMul,\n\tIntegerMax,\n\tKeyMonoid,\n\tproduct,\n} from '../0-core/index.js';\n\nconst INTEGER_ADD = new IntegerAdd();\nconst INTEGER_MUL = new IntegerMul();\nconst INTEGER_MAX = new IntegerMax();\nconst KEY = new KeyMonoid();\nconst KEY_MAX = product(KEY, INTEGER_MAX);\nconst KEY_ADD = product(KEY, INTEGER_ADD);\n\nexport const Monoids = {\n\tINTEGER_ADD,\n\tINTEGER_MUL,\n\tINTEGER_MAX,\n\tKEY,\n\tKEY_MAX,\n\tKEY_ADD,\n};\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/1-api/0-Monoids.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 105,
+    "kind": "variable",
+    "name": "INTEGER_ADD",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~INTEGER_ADD",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/1-monoids/IntegerAdd.js~IntegerAdd"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 106,
+    "kind": "variable",
+    "name": "INTEGER_MUL",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~INTEGER_MUL",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/1-monoids/IntegerMul.js~IntegerMul"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 107,
+    "kind": "variable",
+    "name": "INTEGER_MAX",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~INTEGER_MAX",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/1-monoids/IntegerMax.js~IntegerMax"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 108,
+    "kind": "variable",
+    "name": "KEY",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~KEY",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/1-monoids/KeyMonoid.js~KeyMonoid"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 109,
+    "kind": "variable",
+    "name": "KEY_MAX",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~KEY_MAX",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 110,
+    "kind": "variable",
+    "name": "KEY_ADD",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~KEY_ADD",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 111,
+    "kind": "variable",
+    "name": "Monoids",
+    "memberof": "src/1-api/0-Monoids.js",
+    "static": true,
+    "longname": "src/1-api/0-Monoids.js~Monoids",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/1-api/0-Monoids.js",
+    "importStyle": "{Monoids}",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"INTEGER_ADD\": *, \"INTEGER_MUL\": *, \"INTEGER_MAX\": *, \"KEY\": *, \"KEY_MAX\": *, \"KEY_ADD\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "file",
+    "name": "src/1-api/1-Measures.js",
+    "content": "import {Counter, Max, KeyMeasure, KeyLen, Interval} from '../0-core/index.js';\n\nconst COUNTER = new Counter();\nconst MAX = new Max();\nconst KEY = new KeyMeasure();\nconst KEY_LEN = new KeyLen();\nconst INTERVAL = new Interval();\n\nexport const Measures = {\n\tCOUNTER,\n\tMAX,\n\tKEY,\n\tKEY_LEN,\n\tINTERVAL,\n\tPRIO: MAX,\n\tSIZE: COUNTER,\n\tLEN: COUNTER,\n};\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/1-api/1-Measures.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 113,
+    "kind": "variable",
+    "name": "COUNTER",
+    "memberof": "src/1-api/1-Measures.js",
+    "static": true,
+    "longname": "src/1-api/1-Measures.js~COUNTER",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/1-Measures.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/2-derived/Counter.js~Counter"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 114,
+    "kind": "variable",
+    "name": "MAX",
+    "memberof": "src/1-api/1-Measures.js",
+    "static": true,
+    "longname": "src/1-api/1-Measures.js~MAX",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/1-Measures.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/2-derived/Max.js~Max"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 115,
+    "kind": "variable",
+    "name": "KEY",
+    "memberof": "src/1-api/1-Measures.js",
+    "static": true,
+    "longname": "src/1-api/1-Measures.js~KEY",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/1-Measures.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/2-derived/KeyMeasure.js~KeyMeasure"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 116,
+    "kind": "variable",
+    "name": "KEY_LEN",
+    "memberof": "src/1-api/1-Measures.js",
+    "static": true,
+    "longname": "src/1-api/1-Measures.js~KEY_LEN",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/1-Measures.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/2-derived/KeyLen.js~KeyLen"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 117,
+    "kind": "variable",
+    "name": "INTERVAL",
+    "memberof": "src/1-api/1-Measures.js",
+    "static": true,
+    "longname": "src/1-api/1-Measures.js~INTERVAL",
+    "access": "public",
+    "export": false,
+    "importPath": "@aureooms/js-measure/src/1-api/1-Measures.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/0-core/2-derived/Interval.js~Interval"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 118,
+    "kind": "variable",
+    "name": "Measures",
+    "memberof": "src/1-api/1-Measures.js",
+    "static": true,
+    "longname": "src/1-api/1-Measures.js~Measures",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-measure/src/1-api/1-Measures.js",
+    "importStyle": "{Measures}",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"COUNTER\": *, \"MAX\": *, \"KEY\": *, \"KEY_LEN\": *, \"INTERVAL\": *, \"PRIO\": *, \"SIZE\": *, \"LEN\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "file",
+    "name": "src/1-api/index.js",
+    "content": "export * from './0-Monoids.js';\nexport * from './1-Measures.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/1-api/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 120,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export * from './0-core/index.js';\nexport * from './1-api/index.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/js-measure/js-measure/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": ":straight_ruler:\n[@aureooms/js-measure](https://aureooms.github.io/js-measure)\n==\n\n<p align=\"center\">\n<a href=\"https://bartoszmilewski.com/2016/12/27/monads-categorically\">\n<img src=\"https://bartoszmilewski.files.wordpress.com/2016/12/monoid-1.jpg\" width=\"400\">\n</a><br/>\n<a href=\"https://bartoszmilewski.com\">\nBartosz Milewski's Programming Cafe\n</a>\n/\n<a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>\n</p>\n\nMonoids and measures for JavaScript.\nSee [docs](https://aureooms.github.io/js-measure).\nParent is [@aureooms/js-algebra](https://github.com/aureooms/js-algebra).\n\n```js\nclass Monoid a where\n   0 :: => a\n   + :: a => a => a\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-measure.svg)](https://raw.githubusercontent.com/aureooms/js-measure/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)\n[![Build](https://img.shields.io/travis/aureooms/js-measure/main.svg)](https://travis-ci.com/aureooms/js-measure/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-measure.svg)](https://david-dm.org/aureooms/js-measure)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-measure.svg)](https://david-dm.org/aureooms/js-measure?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-measure.svg)](https://github.com/aureooms/js-measure/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-measure/main.svg)](https://codecov.io/gh/aureooms/js-measure)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/technical_debt)\n[![Documentation](https://aureooms.github.io/js-measure/badge.svg)](https://aureooms.github.io/js-measure/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-measure)](https://bundlephobia.com/result?p=@aureooms/js-measure)\n",
+    "longname": "/home/runner/work/js-measure/js-measure/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-measure\",\n  \"description\": \"Monoids and measures for JavaScript\",\n  \"version\": \"2.0.0\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"Aurélien Ooms <aurelien.ooms@gmail.com>\",\n  \"homepage\": \"https://aureooms.github.io/js-measure\",\n  \"repository\": {\n    \"url\": \"https://github.com/aureooms/js-measure\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-measure/issues\"\n  },\n  \"keywords\": [\n    \"functional\",\n    \"javascript\",\n    \"js\",\n    \"measure\",\n    \"monoid\"\n  ],\n  \"sideEffects\": false,\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.module.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.js\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"c8 --all --src src --reporter=lcov npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\",\n    \"travis\": \"npm run lint-config && npm run lint && npm run cover\"\n  },\n  \"dependencies\": {},\n  \"devDependencies\": {\n    \"@aureooms/js-itertools\": \"5.0.1\",\n    \"@babel/core\": \"7.13.10\",\n    \"@babel/preset-env\": \"7.13.10\",\n    \"@babel/register\": \"7.13.8\",\n    \"@commitlint/cli\": \"12.0.1\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.6.0\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"5.2.0\",\n    \"lint-staged\": \"10.5.4\",\n    \"microbundle\": \"0.13.0\",\n    \"np\": \"7.4.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.38.2\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": [\n            \"defaults\",\n            \"maintained node versions\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": \"current node\"\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": \"current node\"\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"production\": {\n        \"plugins\": [\n          \"babel-plugin-unassert\",\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": \"off\",\n      \"camelcase\": \"off\",\n      \"unicorn/prevent-abbreviations\": \"off\",\n      \"no-constant-condition\": \"off\",\n      \"unicorn/prefer-math-trunc\": \"off\",\n      \"unicorn/no-new-array\": \"off\"\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/js-measure/js-measure/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/js-measure/js-measure/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/js-measure/js-measure/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\nCan be managed using\n[jspm](http://jspm.io)\nor [npm](https://github.com/npm/npm).\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-measure\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-measure --save\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/js-measure/js-measure/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\nThe code needs a ES2015+ polyfill to work, for example\n[regenerator-runtime/runtime](https://babeljs.io/docs/usage/polyfill).\n```js\nrequire( 'regenerator-runtime/runtime' ) ;\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen\n```js\nconst measure = require( '@aureooms/js-measure' ) ;\n// or\nimport measure from '@aureooms/js-measure' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/js-measure/js-measure/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n",
+    "static": true,
+    "access": "public"
+  }
+]

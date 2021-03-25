@@ -1,109 +1,50 @@
 {
-  "coverage": "13.95%",
-  "expectCount": 43,
+  "coverage": "11.11%",
+  "expectCount": 54,
   "actualCount": 6,
   "files": {
-    "src/0-core/2-derived/Counter.js": {
-      "expectCount": 3,
-      "actualCount": 0,
+    "src/0-core/0-base/Measure.js": {
+      "expectCount": 6,
+      "actualCount": 5,
       "undocumentLines": [
-        4,
-        6,
-        10
+        9
       ]
     },
     "src/0-core/1-monoids/IntegerAdd.js": {
       "expectCount": 3,
       "actualCount": 0,
       "undocumentLines": [
+        1,
         2,
-        8,
-        4
+        6
       ]
     },
     "src/0-core/1-monoids/IntegerMax.js": {
       "expectCount": 3,
       "actualCount": 0,
       "undocumentLines": [
+        1,
         2,
-        8,
-        4
+        6
       ]
     },
     "src/0-core/1-monoids/IntegerMul.js": {
       "expectCount": 3,
       "actualCount": 0,
       "undocumentLines": [
+        1,
         2,
-        8,
-        4
-      ]
-    },
-    "src/0-core/2-derived/Interval.js": {
-      "expectCount": 3,
-      "actualCount": 0,
-      "undocumentLines": [
-        4,
-        6,
-        10
-      ]
-    },
-    "src/0-core/2-derived/KeyLen.js": {
-      "expectCount": 3,
-      "actualCount": 0,
-      "undocumentLines": [
-        4,
-        6,
-        10
-      ]
-    },
-    "src/0-core/2-derived/KeyMeasure.js": {
-      "expectCount": 3,
-      "actualCount": 0,
-      "undocumentLines": [
-        4,
-        6,
-        10
+        6
       ]
     },
     "src/0-core/1-monoids/KeyMonoid.js": {
       "expectCount": 4,
       "actualCount": 0,
       "undocumentLines": [
+        1,
+        3,
         4,
-        2,
-        10,
-        6
-      ]
-    },
-    "src/0-core/2-derived/Max.js": {
-      "expectCount": 3,
-      "actualCount": 0,
-      "undocumentLines": [
-        4,
-        6,
-        10
-      ]
-    },
-    "src/0-core/0-base/Measure.js": {
-      "expectCount": 6,
-      "actualCount": 5,
-      "undocumentLines": [
-        10
-      ]
-    },
-    "src/1-api/1-Measures.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        15
-      ]
-    },
-    "src/1-api/0-Monoids.js": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        16
+        8
       ]
     },
     "src/0-core/1-monoids/Product.js": {
@@ -111,11 +52,81 @@
       "actualCount": 1,
       "undocumentLines": [
         1,
+        2,
+        3,
+        4,
+        7,
+        20
+      ]
+    },
+    "src/0-core/2-derived/Counter.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
         4,
         5,
+        9
+      ]
+    },
+    "src/0-core/2-derived/Interval.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        9
+      ]
+    },
+    "src/0-core/2-derived/KeyLen.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        9
+      ]
+    },
+    "src/0-core/2-derived/KeyMeasure.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        9
+      ]
+    },
+    "src/0-core/2-derived/Max.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        9
+      ]
+    },
+    "src/1-api/0-Monoids.js": {
+      "expectCount": 7,
+      "actualCount": 0,
+      "undocumentLines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16
+      ]
+    },
+    "src/1-api/1-Measures.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
         3,
-        22,
-        8
+        4,
+        5,
+        6,
+        7,
+        9
       ]
     }
   }
