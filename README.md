@@ -15,7 +15,7 @@ Bartosz Milewski's Programming Cafe
 
 Monoids and measures for JavaScript.
 See [docs](https://make-github-pseudonymous-again.github.io/js-measure).
-Parent is [@aureooms/js-algebra](https://github.com/aureooms/js-algebra).
+Parent is [@aureooms/js-algebra](https://github.com/make-github-pseudonymous-again/js-algebra).
 
 ```js
 class Monoid a where
@@ -23,17 +23,17 @@ class Monoid a where
    + :: a => a => a
 ```
 
-[![License](https://img.shields.io/github/license/aureooms/js-measure.svg)](https://raw.githubusercontent.com/aureooms/js-measure/main/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-measure.svg)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-measure/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)
-[![Tests](https://img.shields.io/github/workflow/status/aureooms/js-measure/ci:test?event=push&label=tests)](https://github.com/aureooms/js-measure/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/aureooms/js-measure.svg)](https://david-dm.org/aureooms/js-measure)
-[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-measure.svg)](https://david-dm.org/aureooms/js-measure?type=dev)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-measure.svg)](https://github.com/aureooms/js-measure/issues)
+[![Tests](https://img.shields.io/github/workflow/status/make-github-pseudonymous-again/js-measure/ci:test?event=push&label=tests)](https://github.com/make-github-pseudonymous-again/js-measure/actions/workflows/ci:test.yml?query=branch:main)
+[![Dependencies](https://img.shields.io/david/make-github-pseudonymous-again/js-measure.svg)](https://david-dm.org/make-github-pseudonymous-again/js-measure)
+[![Dev dependencies](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-measure.svg)](https://david-dm.org/make-github-pseudonymous-again/js-measure?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-measure.svg)](https://github.com/make-github-pseudonymous-again/js-measure/issues)
 [![Downloads](https://img.shields.io/npm/dm/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)
 
-[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/issues)
-[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/churn)
-[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-measure/main.svg)](https://codecov.io/gh/aureooms/js-measure)
-[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/technical_debt)
+[![Code issues](https://img.shields.io/codeclimate/issues/make-github-pseudonymous-again/js-measure.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-measure/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/make-github-pseudonymous-again/js-measure.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-measure/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/make-github-pseudonymous-again/js-measure/main.svg)](https://codecov.io/gh/make-github-pseudonymous-again/js-measure)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/make-github-pseudonymous-again/js-measure.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-measure/trends/technical_debt)
 [![Documentation](https://make-github-pseudonymous-again.github.io/js-measure/badge.svg)](https://make-github-pseudonymous-again.github.io/js-measure/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-measure)](https://bundlephobia.com/result?p=@aureooms/js-measure)

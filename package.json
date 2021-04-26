@@ -6,11 +6,11 @@
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
   "homepage": "https://make-github-pseudonymous-again.github.io/js-measure",
   "repository": {
-    "url": "https://github.com/aureooms/js-measure",
+    "url": "https://github.com/make-github-pseudonymous-again/js-measure",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-measure/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-measure/issues"
   },
   "keywords": [
     "functional",
