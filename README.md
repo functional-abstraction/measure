@@ -1,5 +1,5 @@
 :straight_ruler:
-[@aureooms/js-measure](https://aureooms.github.io/js-measure)
+[@aureooms/js-measure](https://make-github-pseudonymous-again.github.io/js-measure)
 ==
 
 <p align="center">
@@ -14,7 +14,7 @@ Bartosz Milewski's Programming Cafe
 </p>
 
 Monoids and measures for JavaScript.
-See [docs](https://aureooms.github.io/js-measure).
+See [docs](https://make-github-pseudonymous-again.github.io/js-measure).
 Parent is [@aureooms/js-algebra](https://github.com/aureooms/js-algebra).
 
 ```js
@@ -35,5 +35,5 @@ class Monoid a where
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-measure/main.svg)](https://codecov.io/gh/aureooms/js-measure)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-measure.svg)](https://codeclimate.com/github/aureooms/js-measure/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-measure/badge.svg)](https://aureooms.github.io/js-measure/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-measure/badge.svg)](https://make-github-pseudonymous-again.github.io/js-measure/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-measure)](https://bundlephobia.com/result?p=@aureooms/js-measure)
