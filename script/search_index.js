@@ -1,92 +1,92 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-measure/src/0-core/2-derived/counter.js~counter",
+    "@functional-abstraction/measure/src/0-core/2-derived/counter.js~counter",
     "class/src/0-core/2-derived/Counter.js~Counter.html",
-    "<span>Counter</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/2-derived/Counter.js</span>",
+    "<span>Counter</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/2-derived/Counter.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/integeradd.js~integeradd",
+    "@functional-abstraction/measure/src/0-core/1-monoids/integeradd.js~integeradd",
     "class/src/0-core/1-monoids/IntegerAdd.js~IntegerAdd.html",
-    "<span>IntegerAdd</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/IntegerAdd.js</span>",
+    "<span>IntegerAdd</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/IntegerAdd.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/integermax.js~integermax",
+    "@functional-abstraction/measure/src/0-core/1-monoids/integermax.js~integermax",
     "class/src/0-core/1-monoids/IntegerMax.js~IntegerMax.html",
-    "<span>IntegerMax</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/IntegerMax.js</span>",
+    "<span>IntegerMax</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/IntegerMax.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/integermul.js~integermul",
+    "@functional-abstraction/measure/src/0-core/1-monoids/integermul.js~integermul",
     "class/src/0-core/1-monoids/IntegerMul.js~IntegerMul.html",
-    "<span>IntegerMul</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/IntegerMul.js</span>",
+    "<span>IntegerMul</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/IntegerMul.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/2-derived/interval.js~interval",
+    "@functional-abstraction/measure/src/0-core/2-derived/interval.js~interval",
     "class/src/0-core/2-derived/Interval.js~Interval.html",
-    "<span>Interval</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/2-derived/Interval.js</span>",
+    "<span>Interval</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/2-derived/Interval.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/2-derived/keylen.js~keylen",
+    "@functional-abstraction/measure/src/0-core/2-derived/keylen.js~keylen",
     "class/src/0-core/2-derived/KeyLen.js~KeyLen.html",
-    "<span>KeyLen</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/2-derived/KeyLen.js</span>",
+    "<span>KeyLen</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/2-derived/KeyLen.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/2-derived/keymeasure.js~keymeasure",
+    "@functional-abstraction/measure/src/0-core/2-derived/keymeasure.js~keymeasure",
     "class/src/0-core/2-derived/KeyMeasure.js~KeyMeasure.html",
-    "<span>KeyMeasure</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/2-derived/KeyMeasure.js</span>",
+    "<span>KeyMeasure</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/2-derived/KeyMeasure.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/keymonoid.js~keymonoid",
+    "@functional-abstraction/measure/src/0-core/1-monoids/keymonoid.js~keymonoid",
     "class/src/0-core/1-monoids/KeyMonoid.js~KeyMonoid.html",
-    "<span>KeyMonoid</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/KeyMonoid.js</span>",
+    "<span>KeyMonoid</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/KeyMonoid.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/2-derived/max.js~max",
+    "@functional-abstraction/measure/src/0-core/2-derived/max.js~max",
     "class/src/0-core/2-derived/Max.js~Max.html",
-    "<span>Max</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/2-derived/Max.js</span>",
+    "<span>Max</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/2-derived/Max.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/0-base/measure.js~measure",
+    "@functional-abstraction/measure/src/0-core/0-base/measure.js~measure",
     "class/src/0-core/0-base/Measure.js~Measure.html",
-    "<span>Measure</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/0-base/Measure.js</span>",
+    "<span>Measure</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/0-base/Measure.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/1-api/1-measures.js~measures",
+    "@functional-abstraction/measure/src/1-api/1-measures.js~measures",
     "variable/index.html#static-variable-Measures",
-    "<span>Measures</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/1-api/1-Measures.js</span>",
+    "<span>Measures</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/1-api/1-Measures.js</span>",
     "variable"
   ],
   [
-    "@aureooms/js-measure/src/1-api/0-monoids.js~monoids",
+    "@functional-abstraction/measure/src/1-api/0-monoids.js~monoids",
     "variable/index.html#static-variable-Monoids",
-    "<span>Monoids</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/1-api/0-Monoids.js</span>",
+    "<span>Monoids</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/1-api/0-Monoids.js</span>",
     "variable"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/keymonoid.js~nokey",
+    "@functional-abstraction/measure/src/0-core/1-monoids/keymonoid.js~nokey",
     "variable/index.html#static-variable-NoKey",
-    "<span>NoKey</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/KeyMonoid.js</span>",
+    "<span>NoKey</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/KeyMonoid.js</span>",
     "variable"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/product.js~product",
+    "@functional-abstraction/measure/src/0-core/1-monoids/product.js~product",
     "class/src/0-core/1-monoids/Product.js~Product.html",
-    "<span>Product</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/Product.js</span>",
+    "<span>Product</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/Product.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-measure/src/0-core/1-monoids/product.js~product",
+    "@functional-abstraction/measure/src/0-core/1-monoids/product.js~product",
     "function/index.html#static-function-product",
-    "<span>product</span> <span class=\"search-result-import-path\">@aureooms/js-measure/src/0-core/1-monoids/Product.js</span>",
+    "<span>product</span> <span class=\"search-result-import-path\">@functional-abstraction/measure/src/0-core/1-monoids/Product.js</span>",
     "function"
   ],
   [
