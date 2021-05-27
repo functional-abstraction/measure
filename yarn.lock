@@ -1153,17 +1153,17 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-0.0.2.tgz#7129988de2071ffb747632bd0190c0db579a5b69"
   integrity sha512-+q2BxI+awes71qm4M5zLXaJK7GUy1Tbt5K7YKTU3Yl8DgCdQxeHBbkAIxXAv49BoS2eLx5cLXHdpX6ybzvA2XQ==
 
-"@iterable-iterator/map@^0.1.0":
+"@iterable-iterator/map@0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-0.1.0.tgz#abccfff2fd3cfde9505566563eb15dae4209bfb0"
   integrity sha512-Qx6GvjGqqhk4zxOrP1Q18tvMyr5CPdDRtxSlzkTabFdREy4fLc3nddZBoheD3RovWvaRDmQstt76ETIspDJkcQ==
 
-"@iterable-iterator/range@^1.0.0":
+"@iterable-iterator/range@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
   integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
 
-"@iterable-iterator/reduce@^0.0.1":
+"@iterable-iterator/reduce@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/reduce/-/reduce-0.0.1.tgz#35cf9b9c27afcdc1ebcd1a8d1f58162e8abd6290"
   integrity sha512-Lg5HWX6oTajmd1OhFdFvQ8y+Sdqyi4vvwBfzm/mq+8BmQUa+ghnC5nkBs3M3ZcF96R1e4nn31yw4pp/DN+lUeQ==
