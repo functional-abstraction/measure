@@ -9,7 +9,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then
 ```js
-const measure = require( '@aureooms/js-measure' ) ;
+const measure = require( '@functional-abstraction/measure' ) ;
 // or
-import measure from '@aureooms/js-measure' ;
+import measure from '@functional-abstraction/measure' ;
 ```

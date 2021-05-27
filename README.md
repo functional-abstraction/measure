@@ -1,5 +1,5 @@
 :straight_ruler:
-[@aureooms/js-measure](https://make-github-pseudonymous-again.github.io/js-measure)
+[@functional-abstraction/measure](https://functional-abstraction.github.io/measure)
 ==
 
 <p align="center">
@@ -14,7 +14,7 @@ Bartosz Milewski's Programming Cafe
 </p>
 
 Monoids and measures for JavaScript.
-See [docs](https://make-github-pseudonymous-again.github.io/js-measure).
+See [docs](https://functional-abstraction.github.io/measure).
 Parent is [@aureooms/js-algebra](https://github.com/make-github-pseudonymous-again/js-algebra).
 
 ```js
@@ -23,17 +23,17 @@ class Monoid a where
    + :: a => a => a
 ```
 
-[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-measure.svg)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-measure/main/LICENSE)
-[![Version](https://img.shields.io/npm/v/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)
-[![Tests](https://img.shields.io/github/workflow/status/make-github-pseudonymous-again/js-measure/ci:test?event=push&label=tests)](https://github.com/make-github-pseudonymous-again/js-measure/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/make-github-pseudonymous-again/js-measure.svg)](https://david-dm.org/make-github-pseudonymous-again/js-measure)
-[![Dev dependencies](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-measure.svg)](https://david-dm.org/make-github-pseudonymous-again/js-measure?type=dev)
-[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-measure.svg)](https://github.com/make-github-pseudonymous-again/js-measure/issues)
-[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-measure.svg)](https://www.npmjs.org/package/@aureooms/js-measure)
+[![License](https://img.shields.io/github/license/functional-abstraction/measure.svg)](https://raw.githubusercontent.com/functional-abstraction/measure/main/LICENSE)
+[![Version](https://img.shields.io/npm/v/@functional-abstraction/measure.svg)](https://www.npmjs.org/package/@functional-abstraction/measure)
+[![Tests](https://img.shields.io/github/workflow/status/functional-abstraction/measure/ci:test?event=push&label=tests)](https://github.com/functional-abstraction/measure/actions/workflows/ci:test.yml?query=branch:main)
+[![Dependencies](https://img.shields.io/david/functional-abstraction/measure.svg)](https://david-dm.org/functional-abstraction/measure)
+[![Dev dependencies](https://img.shields.io/david/dev/functional-abstraction/measure.svg)](https://david-dm.org/functional-abstraction/measure?type=dev)
+[![GitHub issues](https://img.shields.io/github/issues/functional-abstraction/measure.svg)](https://github.com/functional-abstraction/measure/issues)
+[![Downloads](https://img.shields.io/npm/dm/@functional-abstraction/measure.svg)](https://www.npmjs.org/package/@functional-abstraction/measure)
 
-[![Code issues](https://img.shields.io/codeclimate/issues/make-github-pseudonymous-again/js-measure.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-measure/issues)
-[![Code maintainability](https://img.shields.io/codeclimate/maintainability/make-github-pseudonymous-again/js-measure.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-measure/trends/churn)
-[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/make-github-pseudonymous-again/js-measure/main.svg)](https://codecov.io/gh/make-github-pseudonymous-again/js-measure)
-[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/make-github-pseudonymous-again/js-measure.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-measure/trends/technical_debt)
-[![Documentation](https://make-github-pseudonymous-again.github.io/js-measure/badge.svg)](https://make-github-pseudonymous-again.github.io/js-measure/source.html)
-[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-measure)](https://bundlephobia.com/result?p=@aureooms/js-measure)
+[![Code issues](https://img.shields.io/codeclimate/issues/functional-abstraction/measure.svg)](https://codeclimate.com/github/functional-abstraction/measure/issues)
+[![Code maintainability](https://img.shields.io/codeclimate/maintainability/functional-abstraction/measure.svg)](https://codeclimate.com/github/functional-abstraction/measure/trends/churn)
+[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/functional-abstraction/measure/main.svg)](https://codecov.io/gh/functional-abstraction/measure)
+[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/functional-abstraction/measure.svg)](https://codeclimate.com/github/functional-abstraction/measure/trends/technical_debt)
+[![Documentation](https://functional-abstraction.github.io/measure/badge.svg)](https://functional-abstraction.github.io/measure/source.html)
+[![Package size](https://img.shields.io/bundlephobia/minzip/@functional-abstraction/measure)](https://bundlephobia.com/result?p=@functional-abstraction/measure)
