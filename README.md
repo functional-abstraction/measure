@@ -15,7 +15,6 @@ Bartosz Milewski's Programming Cafe
 
 Monoids and measures for JavaScript.
 See [docs](https://functional-abstraction.github.io/measure).
-Parent is [@aureooms/js-algebra](https://github.com/make-github-pseudonymous-again/js-algebra).
 
 ```js
 class Monoid a where
