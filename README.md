@@ -24,7 +24,7 @@ class Monoid a where
 
 [![License](https://img.shields.io/github/license/functional-abstraction/measure.svg)](https://raw.githubusercontent.com/functional-abstraction/measure/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@functional-abstraction/measure.svg)](https://www.npmjs.org/package/@functional-abstraction/measure)
-[![Tests](https://img.shields.io/github/workflow/status/functional-abstraction/measure/ci?event=push&label=tests)](https://github.com/functional-abstraction/measure/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/functional-abstraction/measure/ci.yml?branch=main&event=push&label=tests)](https://github.com/functional-abstraction/measure/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/functional-abstraction/measure.svg)](https://github.com/functional-abstraction/measure/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/functional-abstraction/measure.svg)](https://github.com/functional-abstraction/measure/issues)
 [![Downloads](https://img.shields.io/npm/dm/@functional-abstraction/measure.svg)](https://www.npmjs.org/package/@functional-abstraction/measure)
