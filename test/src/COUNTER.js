@@ -4,7 +4,7 @@ import {range} from '@iterable-iterator/range';
 import {reduce} from '@iterable-iterator/reduce';
 import {map} from '@iterable-iterator/map';
 
-import {Measures} from '../../src/index.js';
+import {Measures} from '#module';
 
 test('counter', (t) => {
 	const counter = Measures.COUNTER;
