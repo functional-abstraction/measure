@@ -1,8 +1,8 @@
 import test from 'ava';
 
+import {map} from '@iterable-iterator/map';
 import {range} from '@iterable-iterator/range';
 import {reduce} from '@iterable-iterator/reduce';
-import {map} from '@iterable-iterator/map';
 
 import {Measures} from '#module';
 
