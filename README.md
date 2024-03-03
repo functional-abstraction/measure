@@ -25,8 +25,7 @@ class Monoid a where
 [![License](https://img.shields.io/github/license/functional-abstraction/measure.svg)](https://raw.githubusercontent.com/functional-abstraction/measure/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@functional-abstraction/measure.svg)](https://www.npmjs.org/package/@functional-abstraction/measure)
 [![Tests](https://img.shields.io/github/workflow/status/functional-abstraction/measure/ci:test?event=push&label=tests)](https://github.com/functional-abstraction/measure/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/functional-abstraction/measure.svg)](https://david-dm.org/functional-abstraction/measure)
-[![Dev dependencies](https://img.shields.io/david/dev/functional-abstraction/measure.svg)](https://david-dm.org/functional-abstraction/measure?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/functional-abstraction/measure.svg)](https://github.com/functional-abstraction/measure/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/functional-abstraction/measure.svg)](https://github.com/functional-abstraction/measure/issues)
 [![Downloads](https://img.shields.io/npm/dm/@functional-abstraction/measure.svg)](https://www.npmjs.org/package/@functional-abstraction/measure)
 
